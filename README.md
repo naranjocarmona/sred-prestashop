@@ -445,9 +445,7 @@ Aceptamos la advertencia, se hace la copia y la descargamos.
 - [DigitalOcean - Crear BD y usuario MySQL](https://www.digitalocean.com/community/tutorials/crear-un-nuevo-usuario-y-otorgarle-permisos-en-mysql-es)
 - [Cómo instalar - Prestashop](https://comoinstalar.me/como-instalar-prestashop-en-ubuntu-20-04-lts/)
 - [DigitalOcean - Instalar PHP 7.4](https://www.digitalocean.com/community/tutorials/how-to-install-php-7-4-and-set-up-a-local-development-environment-on-ubuntu-20-04)
-
-
-
+- [StackOverflow - configuracion segura MySQL](https://stackoverflow.com/questions/72334158/im-getting-an-error-when-i-ran-mysql-secure-installation)
 
 
 
